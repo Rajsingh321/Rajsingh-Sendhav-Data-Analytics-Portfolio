@@ -34,7 +34,7 @@ with st.container():
     st.markdown("<br><hr><br>", unsafe_allow_html=True)  # Section divider
 
     # 3 Feature Columns
-    st.markdown("## 🦾 Skills")
+    st.markdown("## 🦾 Expertise")
     col1, col2, col3 , col4 = st.columns(4)
 
     with col1:
@@ -153,7 +153,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 with st.container(border=False):
-    st.markdown("## 🧰 Tools & Technologies Used")
+    st.markdown("## 🧰 Skills")
     st.markdown("""
 <div style='background-color:#f9f9f9; padding: 20px 28px; border-radius: 12px;'>
   <ul style='font-size: 20px; color: #333; line-height: 1.8;'>
