@@ -178,7 +178,6 @@ with st.container(border=False):
     <li style='font-size: 18px; text-align: justify;'>
     📧 <strong>Email:</strong> <a href="mailto:rajbgi377@gmail.com">rajbgi377@gmail.com</a><br>
     💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rajsinghsendhav" target="_blank">linkedin.com/in/rajsinghsendhav</a><br>
-    📄 <strong>Resume:</strong> <a href="https://drive.google.com/your-resume-link" target="_blank">Download PDF</a><br>
     💻 <strong>GitHub:</strong> <a href="https://github.com/Rajsingh321" target="_blank">github.com/Rajsingh321</a><br>
     </li>           
   </ul>                
