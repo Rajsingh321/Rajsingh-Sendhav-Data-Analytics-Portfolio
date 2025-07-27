@@ -153,7 +153,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 with st.container(border=False):
-    st.markdown("## 🧰 Skills & Tools")
+    st.markdown("## 🧰 Tools & Technologies Used")
     st.markdown("""
 <div style='background-color:#f9f9f9; padding: 20px 28px; border-radius: 12px;'>
   <ul style='font-size: 20px; color: #333; line-height: 1.8;'>
